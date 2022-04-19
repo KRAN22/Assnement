@@ -1,7 +1,7 @@
-from .noAgrspackage import fun_file as dec 
-from .noAgrspackage import class_file as dwc
-from .argrsPackage import fun_file as dwia
-from .argrsPackage import class_file as cdwia
+from noAgrspackage import fun_file as dec 
+from noAgrspackage import class_file as dwc
+from argrsPackage import fun_file as dwia
+from argrsPackage import class_file as cdwia
 
   
 @dec.begin_end 
